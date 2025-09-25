@@ -1,3 +1,5 @@
+from langchain_gigachat import GigaChat
+
 def main():
     print("Hello from knowlege-manager-agent!")
 
