@@ -6,8 +6,10 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "dotenv>=0.9.9",
+    "fastembed>=0.7.3",
     "fastmcp>=2.12.3",
     "langchain>=0.3.27",
     "langchain-gigachat>=0.3.12",
     "langgraph>=0.6.7",
+    "qdrant-client>=1.15.1",
 ]
